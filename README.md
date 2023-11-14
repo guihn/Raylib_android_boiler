@@ -3,8 +3,7 @@
 This repository offers a ready-to-use environment for setting up Raylib on Android, streamlining the compilation, installation, and execution of Raylib-based applications on your Android device. Below are the prerequisites and steps required to get started.
 
 ## Prerequisites
-- **Android NDK:** Ensure you have the Android Native Development Kit installed.
-- **build-basics:** Required basic build tools for Android development.
+- **Android NDK:** Ensure you have the Android Native Development Kit installed, you can install it following [the official documentation](https://developer.android.com/studio/projects/install-ndk).
 - **raylib:** Compile Raylib for Android as a static library and place it in the project root. Refer to [this tutorial](https://github.com/raysan5/raylib/wiki/Working-for-Android-(on-Linux)) for detailed instructions.
 
 ## How to Run
