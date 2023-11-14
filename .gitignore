@@ -1,0 +1,6 @@
+*.apk
+*.keystore
+makecapp/*
+*.so
+*.o
+*.a
