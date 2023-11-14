@@ -30,9 +30,3 @@ This repository offers a ready-to-use environment for setting up Raylib on Andro
 This project draws inspiration from [cnlohr/rawdrawandroid workflow](https://github.com/cnlohr/rawdrawandroid), modifying and adapting its Makefile and other elements to facilitate Raylib integration on the Android platform.
 
 Feel free to contribute, modify, or enhance this boilerplate environment and share your improvements with the community!
-
----
-##### Annotations:
-- **Enhanced Workflow:** This repository simplifies the setup of Raylib for Android, providing a user-friendly environment for developers.
-- **Clear Steps:** The step-by-step guide ensures ease of use, making it convenient for developers to get started quickly.
-- **Attribution:** Acknowledgment is given to the original workflow from cnlohr/rawdrawandroid, which served as a significant reference point for this project's structure and design.
